@@ -1,3 +1,7 @@
+- [Ejercicio 2](#ejercicio-2)
+  - [2.1 Crea un repositorio llamado repo02 desde GitHub.](#21-crea-un-repositorio-llamado-repo02-desde-github)
+  - [2.2 Posteriormente, clónalo, añade un fichero reame.md y haz un commit.](#22-posteriormente-clónalo-añade-un-fichero-reamemd-y-haz-un-commit)
+  - [2.3 Resumen de comandos git](#23-resumen-de-comandos-git)
 # Ejercicio 2
 ## 2.1 Crea un repositorio llamado repo02 desde GitHub.
 Vamos a Github y creamos el repositorio. 
